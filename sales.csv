@@ -1,0 +1,21 @@
+order_id,product,quantity,amount
+1001,Laptop,1,50000
+1002,Mouse,2,1000
+1003,Keyboard,1,1500
+1004,Monitor,1,12000
+1005,Printer,1,8500
+1006,Headphones,2,4000
+1007,Webcam,1,2500
+1008,USB Drive,5,2500
+1009,External HDD,1,6000
+1010,SSD,2,10000
+1011,Router,1,3000
+1012,Tablet,1,25000
+1013,Smartphone,2,40000
+1014,Speaker,1,3500
+1015,Microphone,1,4500
+1016,Graphics Card,1,45000
+1017,Power Bank,3,4500
+1018,Projector,1,30000
+1019,Gaming Mouse,2,3000
+1020,Laptop Stand,2,2000
